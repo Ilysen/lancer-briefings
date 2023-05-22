@@ -1,22 +1,5 @@
-Born to a mechanic and NHP technician on a tertiary colony world of the Karrakis Trade Baronies known as Ravin: Vier was orphaned at age 13 alongside their then-toddler brother Craig. Officials declared it was due to complications related to an high class NHP cascade, as both their parents were researching the technology secretly against Union's charter, but Vier has only vague memories of the details after Union officials assumedly effected their memory of the incident and related details.
-Living between foster homes and the streets of an established colony city on Ravin, they took low income service jobs before eventually being mentored under a team of mech mechanics who travel with pilots on expeditions. Enamored by pilots but attached to their brother's daily needs, they took every chance possible to learn from all the mercenary Pilots: stories about the good, the bad, and the strange. This was also where Vier had their first contact with higher class NHPs since childhood, especially when working on the extremely suspicious HORUS frames.
+Jackie, by all accounts, is a criminal. They prefer the term outlaw.
 
-When Vier was 20 years old their brother, now 10, caught a fatal logic disease. Vier took out an insane loan to pay for treatment, and he luckily pulled through. Albeit with a new noose around their collective neck: debt collectors. Today, after 6 years with that debt only piling higher, and while now their brother is old enough to also be helping with it, they decided after years of doing everything for their brother, it was their time to risk it all instead of living under pure responsibility. Time to become a pilot and enjoy life.
+Jackie has spent about 10 subjective years roaming the stars, looking for new adventures, and new things to "tango" with. Jackie's definition of tango is loose, ranging from blowing up buildings, to scuffles, to a game of poker. Although Jackie never sticks around as long as she promises. After a certain amount of time in one place, Jackie disappears without a word to anyone there. They've left a lot of good people behind, but of course, that's not her problem, now is it? Jackie is by all accounts friendly, if not a little rowdy. They always have a story to share if you pass them a drink. Don't ask them what happened on ACE-4 Blue, it's not what they said it was in the paper. Jackie considers themself constantly bulking, and is almost always seen munching on some high protein snack, always offering to share.
 
-## Random Facts:
-
-- Apprehensions about NHP exposure...
-
-- ...but is actually slowly nurturing a low-class NHP cloned from a mech's internal systems, in order to understand them, since they are generally unavoidable.
-
-- Loves their brother, but has some barely-subconscious hatred of the burden he put on them throughout their life.
-
-- Avoids damage to avoid repair work
-
-- Nonbinary
-
-- Dyes their hair green with chemicals that are definitely not meant for that
-
-- Only owns 2 sets of casual wear
-
-- Will steal anything halfway worth stealing if they think they can get away with it
+Jackie stands at an even 6'3" with a wide, muscular frame, mismatched green and blue eyes, and a devil's grin, lengthened by a scar running from the left edge of their lip, up their cheek. Their body is covered in freckles. Her slicked back mullet has a completely foolish look, but it works for them. They're always running around in a tank top, camo  cargo pants, and black combat boots. No matter the occasion, no matter the weather. Frequently has bandages around her gloves for padding when wearing Rodeo Boots. 

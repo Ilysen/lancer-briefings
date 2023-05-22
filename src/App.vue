@@ -89,13 +89,33 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "005",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Phosphorous Smoke",
+          "status": "success"
+        },
+        {
+          "slug": "002",
+          "name": "Faithful Hound",
+          "status": "success"
+        },
+        {
+          "slug": "003",
+          "name": "Tremorsense",
+          "status": "success"
+        },
+        {
+          "slug": "004",
+          "name": "Scrying",
+          "status": "success"
+        },
+        {
+          "slug": "005",
+          "name": "California Gold Rush",
           "status": "start"
         },
       ],

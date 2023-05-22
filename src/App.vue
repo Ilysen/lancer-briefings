@@ -94,13 +94,13 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "Phosphorous Smoke",
-          "status": "success"
+          "slug": "005",
+          "name": "California Gold Rush",
+          "status": "start"
         },
         {
-          "slug": "002",
-          "name": "Faithful Hound",
+          "slug": "004",
+          "name": "Scrying",
           "status": "success"
         },
         {
@@ -109,14 +109,14 @@ export default {
           "status": "success"
         },
         {
-          "slug": "004",
-          "name": "Scrying",
+          "slug": "002",
+          "name": "Faithful Hound",
           "status": "success"
         },
         {
-          "slug": "005",
-          "name": "California Gold Rush",
-          "status": "start"
+          "slug": "001",
+          "name": "Phosphorous Smoke",
+          "status": "success"
         },
       ],
       "pilots": [

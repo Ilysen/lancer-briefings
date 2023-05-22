@@ -123,7 +123,7 @@ export default {
         {
           "callsign": "Duck",
           "alias": "Rudolf Anderson",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "Anderson.Rudolf:2ff431e5-3780-48ab-a243-bf9ee075e3d9//NDL-C-EPSILON-FEW",
           "corpro": "IPS-N",
           "frame": "Lancaster",
           "mech": "Ballbreaker"
@@ -131,7 +131,7 @@ export default {
         {
           "callsign": "Macross",
           "alias": "Tandem Electra",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "Electra.Tandem:05883671-6035-4990-8d79-9873968457e0//NDL-C-FIFTH-CRYSTAL",
           "corpro": "SSC",
           "frame": "Monarch",
           "mech": "XCIX MOB CHOIR"
@@ -139,7 +139,7 @@ export default {
         {
           "callsign": "Tempest Bride",
           "alias": "Anthem Himalaya",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "code": "Himalaya.Anthem:73e59c11-e560-4e66-bd1c-6f51bb8470b2//NDL-C-DEEP-STATION",
           "corpro": "HA",
           "frame": "Tokugawa",
           "mech": "Lotus Prince"
@@ -147,7 +147,7 @@ export default {
         {
           "callsign": "Moonshine",
           "alias": "Jackie Daniels",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "code": "Daniels.Jackie:061e85cc-43b5-4552-a84a-d1576e5f15a5//NDL-C-STEEL-GRAVE",
           "corpro": "IPS-N",
           "frame": "Caliban",
           "mech": "Rodeo Boots"

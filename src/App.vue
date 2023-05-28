@@ -89,14 +89,14 @@ export default {
 
   data() {
     return {
-      "mission_slug": "005",
+      "mission_slug": "",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "005",
           "name": "California Gold Rush",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "004",

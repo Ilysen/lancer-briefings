@@ -94,6 +94,11 @@ export default {
       "events": "",
       "missions": [
         {
+          "slug": "006",
+          "name": "Light at the End",
+          "status": "start"
+        },
+        {
           "slug": "005",
           "name": "California Gold Rush",
           "status": "success"

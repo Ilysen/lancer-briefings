@@ -89,14 +89,14 @@ export default {
 
   data() {
     return {
-      "mission_slug": "006",
+      "mission_slug": "007",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "006",
           "name": "Light at the End",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "005",

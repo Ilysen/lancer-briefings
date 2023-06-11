@@ -89,84 +89,27 @@ export default {
 
   data() {
     return {
-      "mission_slug": "007",
+      "mission_slug": "001",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "006",
-          "name": "Light at the End",
-          "status": "success"
-        },
-        {
-          "slug": "005",
-          "name": "California Gold Rush",
-          "status": "success"
-        },
-        {
-          "slug": "004",
-          "name": "Scrying",
-          "status": "success"
-        },
-        {
-          "slug": "003",
-          "name": "Tremorsense",
-          "status": "success"
-        },
-        {
-          "slug": "002",
-          "name": "Faithful Hound",
-          "status": "success"
-        },
-        {
           "slug": "001",
-          "name": "Phosphorous Smoke",
-          "status": "success"
-        },
+          "name": "???",
+          "status": "start"
+        }
       ],
       "pilots": [
-        {
-          "callsign": "Duck",
-          "alias": "Rudolf Anderson",
-          "code": "Anderson.Rudolf:2ff431e5-3780-48ab-a243-bf9ee075e3d9//NDL-C-EPSILON-FEW",
-          "corpro": "IPS-N",
-          "frame": "Lancaster",
-          "mech": "Ballbreaker"
-        },
-        {
-          "callsign": "Macross",
-          "alias": "Tandem Electra",
-          "code": "Electra.Tandem:05883671-6035-4990-8d79-9873968457e0//NDL-C-FIFTH-CRYSTAL",
-          "corpro": "SSC",
-          "frame": "Monarch",
-          "mech": "XCIX MOB CHOIR"
-        },
-        {
-          "callsign": "Tempest Bride",
-          "alias": "Anthem Himalaya",
-          "code": "Himalaya.Anthem:73e59c11-e560-4e66-bd1c-6f51bb8470b2//NDL-C-DEEP-STATION",
-          "corpro": "HA",
-          "frame": "Tokugawa",
-          "mech": "Lotus Prince"
-        },
-        {
-          "callsign": "Moonshine",
-          "alias": "Jackie Daniels",
-          "code": "Daniels.Jackie:061e85cc-43b5-4552-a84a-d1576e5f15a5//NDL-C-STEEL-GRAVE",
-          "corpro": "IPS-N",
-          "frame": "Caliban",
-          "mech": "Rodeo Boots"
-        },
       ],
       "header": {
-        "planet": "Magus",
-        "year": "5016u",
-        "system": "SPSCo P303-7791",
-        "gate": "Cerro Solitaria",
-        "ring": "Sierra Madre Line",
-        "headerTitle": "Expedition Rue",
+        "planet": "Hercynia",
+        "year": "5014u",
+        "system": "Ardennes-3",
+        "gate": "N/A",
+        "ring": "Atlas Line",
+        "headerTitle": "Ambiguous Unnamed Group",
         "headerSubtitle": "",
-        "subheaderTitle": "GEN_0X7AA4",
+        "subheaderTitle": "Plot-Relevant Role",
         "subheaderSubtitle": "Situation Assessment",
       },
       "options":{

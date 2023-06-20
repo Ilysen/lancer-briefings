@@ -100,6 +100,38 @@ export default {
         }
       ],
       "pilots": [
+        {
+          "callsign": "Dogan",
+          "alias": "UNKNOWN",
+          "code": "UNKNOWN:2ff431e5-3780-48ab-a243-bf9ee075e3d9//NDL-C-EPSILON-FEW",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "DATA UNAVAILABLE"
+        },
+        {
+          "callsign": "Hershe",
+          "alias": "UNKNOWN",
+          "code": "UNKNOWN:05883671-6035-4990-8d79-9873968457e0//NDL-C-FIFTH-CRYSTAL",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "DATA UNAVAILABLE"
+        },
+        {
+          "callsign": "Joan",
+          "alias": "UNKNOWN",
+          "code": "UNKNOWN:73e59c11-e560-4e66-bd1c-6f51bb8470b2//NDL-C-DEEP-STATION",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "DATA UNAVAILABLE"
+        },
+        {
+          "callsign": "Mori",
+          "alias": "UNKNOWN",
+          "code": "UNKNOWN:061e85cc-43b5-4552-a84a-d1576e5f15a5//NDL-C-STEEL-GRAVE",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "DATA UNAVAILABLE"
+        },
       ],
       "header": {
         "planet": "Hercynia",
@@ -107,9 +139,9 @@ export default {
         "system": "Ardennes-3",
         "gate": "N/A",
         "ring": "Atlas Line",
-        "headerTitle": "Ambiguous Unnamed Group",
+        "headerTitle": "Seral-19",
         "headerSubtitle": "",
-        "subheaderTitle": "Plot-Relevant Role",
+        "subheaderTitle": "First Response Team",
         "subheaderSubtitle": "Situation Assessment",
       },
       "options":{

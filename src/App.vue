@@ -136,7 +136,7 @@ export default {
       "header": {
         "planet": "Hercynia",
         "year": "5014u",
-        "system": "Ardennes-3",
+        "system": "Ardennes",
         "gate": "N/A",
         "ring": "Atlas Line",
         "headerTitle": "Seral-19",

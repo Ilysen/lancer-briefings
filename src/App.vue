@@ -122,7 +122,7 @@ export default {
           "code": "UNKNOWN:73e59c11-e560-4e66-bd1c-6f51bb8470b2//NDL-C-DEEP-STATION",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "DATA UNAVAILABLE"
+          "mech": "Cheerful Oblivion"
         },
         {
           "callsign": "Mori",

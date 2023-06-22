@@ -125,12 +125,12 @@ export default {
           "mech": "Cheerful Oblivion"
         },
         {
-          "callsign": "Mori",
-          "alias": "UNKNOWN",
-          "code": "UNKNOWN:061e85cc-43b5-4552-a84a-d1576e5f15a5//NDL-C-STEEL-GRAVE",
+          "callsign": "Prof",
+          "alias": "Boa Hyden",
+          "code": "Hyden.Boa:061e85cc-43b5-4552-a84a-d1576e5f15a5//NDL-C-STEEL-GRAVE",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "DATA UNAVAILABLE"
+          "frame": "Sagarmatha",
+          "mech": "Big Guy"
         },
       ],
       "header": {

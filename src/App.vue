@@ -101,14 +101,6 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Southwest",
-          "alias": "Sweet William",
-          "code": "William.Sweet:2ff431e5-3780-48ab-a243-bf9ee075e3d9//NDL-C-EPSILON-FEW",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "DATA PENDING"
-        },
-        {
           "callsign": "Hershe",
           "alias": "UNKNOWN",
           "code": "UNKNOWN:05883671-6035-4990-8d79-9873968457e0//NDL-C-FIFTH-CRYSTAL",
@@ -117,20 +109,28 @@ export default {
           "mech": "DATA UNAVAILABLE"
         },
         {
-          "callsign": "Joan",
-          "alias": "Nova Sanwijs",
-          "code": "Sanwijs.Nova:73e59c11-e560-4e66-bd1c-6f51bb8470b2//NDL-C-DEEP-STATION",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Cheerful Oblivion"
-        },
-        {
           "callsign": "Prof",
           "alias": "Boa Hyden",
           "code": "Hyden.Boa:061e85cc-43b5-4552-a84a-d1576e5f15a5//NDL-C-STEEL-GRAVE",
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "Big Guy"
+        },
+        {
+          "callsign": "Southwest",
+          "alias": "Sweet William",
+          "code": "William.Sweet:2ff431e5-3780-48ab-a243-bf9ee075e3d9//NDL-C-EPSILON-FEW",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "DATA PENDING"
+        },
+        {
+          "callsign": "Switchboard",
+          "alias": "Nova Sanwijs",
+          "code": "Sanwijs.Nova:73e59c11-e560-4e66-bd1c-6f51bb8470b2//NDL-C-DEEP-STATION",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Cheerful Oblivion"
         },
       ],
       "header": {

@@ -101,9 +101,9 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Hershe",
-          "alias": "UNKNOWN",
-          "code": "UNKNOWN:05883671-6035-4990-8d79-9873968457e0//NDL-C-FIFTH-CRYSTAL",
+          "callsign": "Ananke",
+          "alias": "N/A",
+          "code": "Ananke//CLASS MORALE-13 05883671-6035-4990-8d79-9873968457e0",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "DATA UNAVAILABLE"

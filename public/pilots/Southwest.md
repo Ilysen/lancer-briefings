@@ -1,0 +1,1 @@
+Sweet William, callsign Southest. Combat role: artillery. They're a technology specialist, have violet-pink glowing bionic eyeballs that never blink, and way too many (awful) ties, which are always worn with a wrinkled trench coat that looks straight out of a detective flick.

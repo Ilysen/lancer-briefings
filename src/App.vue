@@ -101,12 +101,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Dogan",
-          "alias": "UNKNOWN",
-          "code": "UNKNOWN:2ff431e5-3780-48ab-a243-bf9ee075e3d9//NDL-C-EPSILON-FEW",
+          "callsign": "Southwest",
+          "alias": "Sweet William",
+          "code": "William.Sweet:2ff431e5-3780-48ab-a243-bf9ee075e3d9//NDL-C-EPSILON-FEW",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "DATA UNAVAILABLE"
+          "mech": "DATA PENDING"
         },
         {
           "callsign": "Hershe",
@@ -118,8 +118,8 @@ export default {
         },
         {
           "callsign": "Joan",
-          "alias": "UNKNOWN",
-          "code": "UNKNOWN:73e59c11-e560-4e66-bd1c-6f51bb8470b2//NDL-C-DEEP-STATION",
+          "alias": "Nova Sanwijs",
+          "code": "Sanwijs.Nova:73e59c11-e560-4e66-bd1c-6f51bb8470b2//NDL-C-DEEP-STATION",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Cheerful Oblivion"

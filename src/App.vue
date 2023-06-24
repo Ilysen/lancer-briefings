@@ -122,7 +122,7 @@ export default {
           "code": "William.Sweet:2ff431e5-3780-48ab-a243-bf9ee075e3d9//NDL-C-EPSILON-FEW",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "DATA PENDING"
+          "mech": "Hemlock"
         },
         {
           "callsign": "Switchboard",

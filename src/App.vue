@@ -95,8 +95,8 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "???",
-          "status": "start"
+          "name": "Bug-Hunt",
+          "status": "success"
         }
       ],
       "pilots": [

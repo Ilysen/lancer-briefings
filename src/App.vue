@@ -94,6 +94,11 @@ export default {
       "events": "",
       "missions": [
         {
+          "slug": "002",
+          "name": "Vigilant Gaze",
+          "status": "start"
+        },
+        {
           "slug": "001",
           "name": "Bug-Hunt",
           "status": "success"

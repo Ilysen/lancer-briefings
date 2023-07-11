@@ -114,14 +114,6 @@ export default {
           "mech": "Instrument of Surrender"
         },
         {
-          "callsign": "Prof",
-          "alias": "Boa Hyden",
-          "code": "Hyden.Boa:061e85cc-43b5-4552-a84a-d1576e5f15a5//NDL-C-STEEL-GRAVE",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Big Guy"
-        },
-        {
           "callsign": "Southwest",
           "alias": "Sweet William",
           "code": "William.Sweet:2ff431e5-3780-48ab-a243-bf9ee075e3d9//NDL-C-EPSILON-FEW",

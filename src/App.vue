@@ -114,6 +114,14 @@ export default {
           "mech": "Instrument of Surrender"
         },
         {
+          "callsign": "Scorpion",
+          "alias": "Roline Eischen",
+          "code": "Eischen.Roline:03d7f4a3-9e53-48b1-8250-16305bd963d1//NDL-C-STOLEN-ORBIT",
+          "corpro": "GMS",
+          "frame": "Sagarmatha",
+          "mech": "Wall of Memories"
+        },
+        {
           "callsign": "Southwest",
           "alias": "Sweet William",
           "code": "William.Sweet:2ff431e5-3780-48ab-a243-bf9ee075e3d9//NDL-C-EPSILON-FEW",

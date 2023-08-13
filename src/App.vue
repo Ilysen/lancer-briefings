@@ -96,7 +96,7 @@ export default {
         {
           "slug": "003",
           "name": "Floodgate",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "002",
@@ -138,8 +138,8 @@ export default {
           "callsign": "Switchboard",
           "alias": "Nova Sanwijs",
           "code": "Sanwijs.Nova:73e59c11-e560-4e66-bd1c-6f51bb8470b2//NDL-C-DEEP-STATION",
-          "corpro": "ERR: UNKNOWN",
-          "frame": "ERR: UNKNOWN",
+          "corpro": "ERROR",
+          "frame": "UNKNOWN",
           "mech": "Cheerful Oblivion"
         },
       ],

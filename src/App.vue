@@ -114,32 +114,32 @@ export default {
           "callsign": "Tzadek",
           "alias": "Tzadek",
           "code": "ANANKE-CLASS 05883671-6035-4990-8d79-9873968457e0",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Instrument of Surrender"
+          "corpro": "HA",
+          "frame": "Sunzi",
+          "mech": "Solomon In His Glory"
         },
         {
           "callsign": "Scorpion",
           "alias": "Roline Eischen",
           "code": "Eischen.Roline:03d7f4a3-9e53-48b1-8250-16305bd963d1//NDL-C-STOLEN-ORBIT",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
+          "corpro": "IPS-N",
+          "frame": "Tortuga",
           "mech": "Wall of Memories"
         },
         {
           "callsign": "Southwest",
           "alias": "Sweet William",
           "code": "William.Sweet:2ff431e5-3780-48ab-a243-bf9ee075e3d9//NDL-C-EPSILON-FEW",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "corpro": "HA",
+          "frame": "Sherman",
           "mech": "Hemlock"
         },
         {
           "callsign": "Switchboard",
           "alias": "Nova Sanwijs",
           "code": "Sanwijs.Nova:73e59c11-e560-4e66-bd1c-6f51bb8470b2//NDL-C-DEEP-STATION",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "corpro": "ERR: UNKNOWN",
+          "frame": "ERR: UNKNOWN",
           "mech": "Cheerful Oblivion"
         },
       ],

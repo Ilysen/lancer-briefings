@@ -89,10 +89,15 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003",
+      "mission_slug": "004",
       "current_md": "",
       "events": "",
       "missions": [
+        {
+          "slug": "004",
+          "name": "Rallying Cry",
+          "status": "start"
+        },
         {
           "slug": "003",
           "name": "Floodgate",

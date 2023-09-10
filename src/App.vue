@@ -96,7 +96,7 @@ export default {
         {
           "slug": "004",
           "name": "Rallying Cry",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "003",
@@ -149,15 +149,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes",
+        "planet": "H#rcy@i=",
+        "year": "5#1^u",
+        "system": "Ard;'e<",
         "gate": "N/A",
-        "ring": "Atlas Line",
-        "headerTitle": "Seral-19",
+        "ring": "@tl<s L_-e",
+        "headerTitle": "|E#RA.-19",
         "headerSubtitle": "",
-        "subheaderTitle": "First Response Team",
-        "subheaderSubtitle": "Situation Assessment",
+        "subheaderTitle": "_+RST R^#PO@!E []A'",
+        "subheaderSubtitle": "$it@ati0n A;:es'm+n=",
       },
       "options":{
         "eventsMarkdownPerMission": true

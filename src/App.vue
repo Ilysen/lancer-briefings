@@ -132,9 +132,9 @@ export default {
           "callsign": "Scorpion",
           "alias": "Roline Eischen",
           "code": "Eischen.Roline:03d7f4a3-9e53-48b1-8250-16305bd963d1//NDL-C-STOLEN-ORBIT",
-          "corpro": "IPS-N",
-          "frame": "Tortuga",
-          "mech": "Wall of Memories"
+          "corpro": "ERROR",
+          "frame": "UNKNOWN",
+          "mech": "Wall of Memories MkII"
         },
         {
           "callsign": "Southwest",

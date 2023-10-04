@@ -89,10 +89,15 @@ export default {
 
   data() {
     return {
-      "mission_slug": "004",
+      "mission_slug": "005",
       "current_md": "",
       "events": "",
       "missions": [
+        {
+          "slug": "005",
+          "name": "Split-Knuckle Haymaker",
+          "status": "start"
+        },
         {
           "slug": "004",
           "name": "Rallying Cry",

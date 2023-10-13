@@ -89,14 +89,14 @@ export default {
 
   data() {
     return {
-      "mission_slug": "005",
+      "mission_slug": "006",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "005",
           "name": "Split-Knuckle Haymaker",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "004",
@@ -154,15 +154,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "H#rcy@i=",
-        "year": "5#1^u",
-        "system": "Ard;'e<",
+        "planet": "Hercynia",
+        "year": "5014u",
+        "system": "Ardennes",
         "gate": "N/A",
-        "ring": "@tl<s L_-e",
-        "headerTitle": "|E#RA.-19",
+        "ring": "Atlas Line",
+        "headerTitle": "SERAL-19",
         "headerSubtitle": "",
-        "subheaderTitle": "_+RST R^#PO@!E []A'",
-        "subheaderSubtitle": "$it@ati0n A;:es'm+n=",
+        "subheaderTitle": "FORST RESPONSE TEAM",
+        "subheaderSubtitle": "Situation Assessment",
       },
       "options":{
         "eventsMarkdownPerMission": true

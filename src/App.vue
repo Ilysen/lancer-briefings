@@ -161,7 +161,7 @@ export default {
         "ring": "Atlas Line",
         "headerTitle": "SERAL-19",
         "headerSubtitle": "",
-        "subheaderTitle": "FORST RESPONSE TEAM",
+        "subheaderTitle": "FIRST RESPONSE TEAM",
         "subheaderSubtitle": "Situation Assessment",
       },
       "options":{
